@@ -1,2 +1,2 @@
 pip3 install colabcode
-python3 cc.py
+python3 colab/cc.py

@@ -1,1 +1,1 @@
-bash screen.sh
+bash colab/screen.sh
