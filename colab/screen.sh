@@ -1,2 +1,2 @@
 sudo apt install screen
-screen -d -m bash colab.sh
+screen -d -m bash colab/colab.sh
